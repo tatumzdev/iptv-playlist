@@ -1,3 +1,7 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="TaTuMz Music" tvg-logo="https://i.imgur.com/IJh6SHb.png" group-title="Music",TaTuMz Music
-https://cdn-edge.iiptvcdn.com/live_event/smil:f180-054a-38d7-ce66-f7cf.smil/chunklist_w639252070_b2128000.m3u8
+#EXTINF:-1 tvg-id="NBT.th" tvg-logo="https://i.imgur.com/IJh6SHb.png" group-title="Digital TV",NBT
+https://lb1-live-mv.v2h-cdn.com/hls/fffe/nbt/nbt.m3u8
+#EXTINF:-1 tvg-id="ThaiPBS.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Thai_PBS_2015.svg" group-title="Digital TV",Thai PBS
+https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
+#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://i.imgur.com/MCbCSWv.png" group-title="Digital TV",ALTV
+https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
