@@ -11,25 +11,3 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 #EXTINF:-1 tvg-id="TPTV.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TPTV_2014.png" group-title="Digital TV",TPTV
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8
-#EXTINF:-1 tvg-id="TNN16.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/3/3a/Tnn162020.jpg" group-title="Digital TV",TNN16
-https://lb1-live-mv.v2h-cdn.com/hls/ffdc/tnn/tnn.m3u8
-#EXTINF:-1 tvg-id="JKN18.th" tvg-logo="https://i.imgur.com/m4nPR2L.png" group-title="Digital TV",JKN 18
-https://lb1-live-mv.v2h-cdn.com/hls/ffda/jkn18/jkn18.m3u8
-#EXTINF:-1 tvg-id="NationTV.th" tvg-logo="https://i.imgur.com/h3TY38F.png" group-title="Digital TV",Nation TV
-https://lb1-live-mv.v2h-cdn.com/hls/ffcc/nation/nation.m3u8
-#EXTINF:-1 tvg-id="Workpoint.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b9/Workpoint_Ch23.svg" group-title="Digital TV",Workpoint TV
-https://lb1-live-mv.v2h-cdn.com/hls/ffcb/workpoint/workpoint.m3u8
-#EXTINF:-1 tvg-id="True4U.th" tvg-logo="https://i.imgur.com/O6Xre1O.png" group-title="Digital TV",True4U
-https://lb1-live-mv.v2h-cdn.com/hls/ffca/true24/true24.m3u8
-#EXTINF:-1 tvg-id="GMM25.th" tvg-logo="https://i.imgur.com/uARba6N.png" group-title="Digital TV",GMM 25
-https://lb1-live-mv.v2h-cdn.com/hls/ffbf/gmm25/gmm25.m3u8
-#EXTINF:-1 tvg-id="CH8.th" tvg-logo="https://i.imgur.com/P3c5jAu.png" group-title="Digital TV",CH8
-https://lb1-live-mv.v2h-cdn.com/hls/ffbe/ch8/ch8.m3u8
-#EXTINF:-1 tvg-id="MONO29.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/d/d5/Mono_29_Logo.png" group-title="Digital TV",MONO29
-https://lb1-live-mv.v2h-cdn.com/hls/ffbc/mono29/mono29.m3u8
-#EXTINF:-1 tvg-id="MCOTHD.th" tvg-logo="https://i.imgur.com/ejPxGmU.png" group-title="Digital TV",MCOT HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffbb/mcot/mcot.m3u8
-#EXTINF:-1 tvg-id="ONE31.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/1/1b/GMM_One_2015.png" group-title="Digital TV",ONE 31
-https://lb1-live-mv.v2h-cdn.com/hls/ffba/one/one.m3u8
-#EXTINF:-1 tvg-id="ThairathTV.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/8/89/Thairath_TV32.png" group-title="Digital TV",Thairath TV
-https://lb1-live-mv.v2h-cdn.com/hls/ffaf/thairath/thairath.m3u8
