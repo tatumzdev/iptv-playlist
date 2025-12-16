@@ -1,5 +1,9 @@
-#EXTM3U
-#EXTINF:-1 tvg-id="CH3.th" tvg-logo="https://i.imgur.com/YRiulCU.png" group-title="Digital TV",CH3 HD
-https://lb1-live-mv.v2h-cdn.com/hls/ffae/3hd/3hd.m3u8
-#EXTINF:-1 tvg-id="AmarinTV.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/f/ff/Amarin_TV_2015.svg" group-title="Digital TV",Amarin TV
-https://lb1-live-mv.v2h-cdn.com/hls/ffad/amarin/amarin.m3u8
+#EXTM3U url-tvg="https://akkradet.github.io/IPTV-THAI/guide.xml" refresh="3600"
+
+# =======================================================
+# Last Update: 2025-10-27 09:32:00 UTC+07 ICT
+# =======================================================
+
+#EXTINF:-1 tvg-chno="1" ch-number="1" tvg-id="MVTV ท้องถิ่นไทย (75).th" tvg-name="MVTV ท้องถิ่นไทย (75)" tvg-logo="https://media-mvtv.imgix.net/channel/30_y_6j8hFgB9MRvUswTeCySxbJf3k74NQloE.png" group-title="Digital TV", MVTV ท้องถิ่นไทย (75)
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://lb1-live-mv.v2h-cdn.com/hls/ffff/mvtv75/mvtv75.m3u8
