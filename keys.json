@@ -1,0 +1,10 @@
+{
+  "keys": [
+    {"key": "DEMO-1234-5678-9ABC", "type": "demo", "days": 3},
+    {"key": "DEMO-AAAA-BBBB-CCCC", "type": "demo", "days": 3},
+    {"key": "MONTH-1111-2222-3333", "type": "monthly", "days": 30},
+    {"key": "MONTH-4444-5555-6666", "type": "monthly", "days": 30},
+    {"key": "YEAR-XXXX-YYYY-ZZZZ", "type": "yearly", "days": 365},
+    {"key": "YEAR-ABCD-EFGH-IJKL", "type": "yearly", "days": 365}
+  ]
+}
