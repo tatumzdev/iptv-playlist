@@ -1,8 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="104" ch-number="104" tvg-id="France 24.th" tvg-name="France 24" tvg-logo="https://media-mvtv.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png" group-title="Digital TV", France 24
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
-https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
-
 #EXTINF:-1 tvg-chno="3" tvg-id="TPBS.th" tvg-logo="https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png" group-title="Digital TV",TPBS
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 
