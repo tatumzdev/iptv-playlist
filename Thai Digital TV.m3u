@@ -14,6 +14,9 @@ https://usa.login.in.th/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-chno="10" tvg-id="TPTV.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TPTV_2014.png" group-title="Digital TV",TPTV ทีวีรัฐสภา
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 
+#EXTINF:-1 tvg-chno="22" tvg-id="Nation.th" tvg-logo="https://media-mvtv.imgix.net/channel/123_y_3vyW276UFjIStew9DHJNs8AGKfdmZXpu.png" group-title="Digital TV",Nation
+https://nationtv-1jdcjo.cdn.byteark.com/fleetstream/nationtvlive/index.m3u8
+
 #EXTINF:-1 tvg-chno="23" tvg-id="WorkpointTV-ALT2.th" tvg-logo="https://i.imgur.com/zq6Xshf.png" group-title="Entertainment",Workpoint TV
 https://global-media.sooplive.com/live/workpoint/master.m3u8
 
