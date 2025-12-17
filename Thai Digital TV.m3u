@@ -1,12 +1,28 @@
 #EXTM3U
+#EXTINF:-1 tvg-chno="104" ch-number="104" tvg-id="France 24.th" tvg-name="France 24" tvg-logo="https://media-mvtv.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png" group-title="Digital TV", France 24
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
+
 #EXTINF:-1 tvg-chno="3" tvg-id="TPBS.th" tvg-logo="https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png" group-title="Digital TV",TPBS
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="4" tvg-id="ALTV4.th" tvg-logo="https://i.imgur.com/MCbCSWv.png" group-title="Digital TV",ALTV4
+https://thaipbs-ujxrch.cdn.byteark.com/live/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="5" tvg-id="5HD.th" tvg-logo="https://media-mvtv.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png" group-title="Digital TV",5HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="8" tvg-id="CH8.th" tvg-logo="" group-title="Digital TV",CH8
 https://usa.login.in.th/ch8/ch8/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="10" tvg-id="TPTV.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TPTV_2014.png" group-title="Digital TV",TPTV ทีวีรัฐสภา
+https://tv-live.tpchannel.org/live/tv_1080p.m3u8
+
+#EXTINF:-1 tvg-chno="23" tvg-id="WorkpointTV-ALT2.th" tvg-logo="https://i.imgur.com/zq6Xshf.png" group-title="Entertainment",Workpoint TV
+https://global-media.sooplive.com/live/workpoint/master.m3u8
+
+#EXTINF:-1 tvg-chno="24" tvg-id="TRUE4U.th" tvg-logo="https://media-mvtv.imgix.net/channel/125_y_vQwogyPUC1FsRhK9TmzSWqb8YI6aktcM.png" group-title="Entertainment",TRUE4U
+https://cco-streamer2.cdn.3bbtv.com:8443/3bb/live/24/24.mpd
 
 #EXTINF:-1 tvg-chno="25" tvg-id="GMM25.th" tvg-logo="https://media-mvtv.imgix.net/channel/126_y_6PH49bDqlg1aSxGoNUdT83R5Jkeyf2mB.png" group-title="Digital TV",GMM25
 https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
@@ -19,9 +35,6 @@ https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/
 
 #EXTINF:-1 tvg-chno="35" tvg-id="Ch7HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Channel_7_HD_logo.svg/200px-Channel_7_HD_logo.svg.png" group-title="Digital TV",ช่อง 7HD
 http://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
-
-#EXTINF:-1 tvg-chno="99" tvg-id="Boomerang.th" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="Digital TV",Boomerang
-https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
 #EXTINF:-1 tvg-chno="801" tvg-id="cool.th" tvg-logo="" group-title="Cable TV",Cool Channel
 https://usa.login.in.th/ch8/ch8/playlist.m3u8
@@ -117,3 +130,4 @@ https://cdn-live.dltv.ac.th/dltv14.m3u8
 #EXTINF:-1 tvg-chno="215" tvg-id="DLTV15.th" tvg-logo="https://media-mvtv.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="Digital TV", DLTV15
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://cdn-live.dltv.ac.th/dltv15.m3u8
+
