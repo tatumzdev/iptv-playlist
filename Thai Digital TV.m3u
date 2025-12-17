@@ -17,6 +17,9 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 #EXTINF:-1 tvg-chno="31" tvg-id="ONE.th" tvg-logo="https://media-mvtv.imgix.net/channel/130_y_3Lx4j6ZzpIidKPqChaF2QRYeWorw79Jv.png" group-title="Digital TV",ONE
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
 
+#EXTINF:-1 tvg-chno="35" tvg-id="Ch7HD.th" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/2/23/Channel_7_HD_logo.svg/200px-Channel_7_HD_logo.svg.png" group-title="Digital TV",ช่อง 7HD
+http://live-cdn.ch7.com/out/v1/eafeb02c55b64a15b278b1e66c7fc776/playlist_9.m3u8
+
 #EXTINF:-1 tvg-chno="99" tvg-id="Boomerang.th" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="Digital TV",Boomerang
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
