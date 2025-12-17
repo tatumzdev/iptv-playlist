@@ -1,15 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="99" tvg-id="Boomerang.th" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="Digital TV",Boomerang
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-#EXTINF:-1 tvg-chno="98" tvg-id="AA.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Thai_PBS_2015.svg" group-title="Digital TV",AA
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 tvg-chno="1" tvg-id="ThaiPBS.th" tvg-logo="https://example.com/tpbs.png" group-title="Digital TV",Thai PBS
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 tvg-chno="2" tvg-id="ALTV.th" tvg-logo="https://example.com/altv.png" group-title="Digital TV",ALTV
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 tvg-chno="3" tvg-id="TV5HD.th" tvg-logo="https://example.com/tv5.png" group-title="Digital TV",TV5 HD
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 tvg-chno="7" tvg-id="TSports7.th" tvg-logo="https://example.com/tsport.png" group-title="Digital TV",T Sports 7
-https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
-#EXTINF:-1 tvg-chno="9" tvg-id="MCOT.th" tvg-logo="https://example.com/mcot.png" group-title="Digital TV",MCOT HD
+#EXTINF:-1 tvg-chno="104" ch-number="104" tvg-id="France 24.th" tvg-name="France 24" tvg-logo="https://media-mvtv.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png" group-title="Digital TV", France 24
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
+#EXTINF:-1 tvg-chno="5" tvg-id="5HD.th" tvg-logo="https://media-mvtv.imgix.net/channel/118_y_0kEyP9Yrw5jTWflXevIZ1Dqhoa2mi4QO.png" group-title="Digital TV",5HD
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
