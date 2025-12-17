@@ -10,3 +10,63 @@ https://usa.login.in.th/ch8/ch8/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="801" tvg-id="cool.th" tvg-logo="" group-title="Cable TV",Cool Channel
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+
+#EXTINF:-1 tvg-chno="201" ch-number="201" tvg-id="DLTV1.th" tvg-name="DLTV1" tvg-logo="https://media-mvtv.imgix.net/channel/136_y_tPkVabFhc7iUGQdmlEDC5IxvJZj4326M.png" group-title="Digital TV", DLTV1
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://cdn-live.dltv.ac.th/dltv01.m3u8
+
+#EXTINF:-1 tvg-chno="202" ch-number="202" tvg-id="DLTV2.th" tvg-name="DLTV2" tvg-logo="https://media-mvtv.imgix.net/channel/137_y_yQOMjhFVupi8I1oal5TScnbkfAYtJC2v.png" group-title="Digital TV", DLTV2
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://cdn-live.dltv.ac.th/dltv02.m3u8
+
+#EXTINF:-1 tvg-chno="203" ch-number="203" tvg-id="DLTV3.th" tvg-name="DLTV3" tvg-logo="https://media-mvtv.imgix.net/channel/138_y_NrPWRcyIBzbd5kJ3n8MqHDOmoVpA19fS.png" group-title="Digital TV", DLTV3
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://cdn-live.dltv.ac.th/dltv03.m3u8
+
+#EXTINF:-1 tvg-chno="204" ch-number="204" tvg-id="DLTV4.th" tvg-name="DLTV4" tvg-logo="https://media-mvtv.imgix.net/channel/139_y_gx6RdEWuPqjBnAwoCI2mrltX5vJU4bDO.png" group-title="Digital TV", DLTV4
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://cdn-live.dltv.ac.th/dltv04.m3u8
+
+#EXTINF:-1 tvg-chno="205" ch-number="205" tvg-id="DLTV5.th" tvg-name="DLTV5" tvg-logo="https://media-mvtv.imgix.net/channel/140_y_0NYqGlHdDfQeZFoSUcMWsx1rtOyTXb78.png" group-title="Digital TV", DLTV5
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://cdn-live.dltv.ac.th/dltv05.m3u8
+
+#EXTINF:-1 tvg-chno="206" ch-number="206" tvg-id="DLTV6.th" tvg-name="DLTV6" tvg-logo="https://media-mvtv.imgix.net/channel/141_y_gIp8YiEP6MQsdeb9hjKcBFmUHVw1kNxy.png" group-title="Digital TV", DLTV6
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://cdn-live.dltv.ac.th/dltv06.m3u8
+
+#EXTINF:-1 tvg-chno="207" ch-number="207" tvg-id="DLTV7.th" tvg-name="DLTV7" tvg-logo="https://media-mvtv.imgix.net/channel/142_y_U53zK2mOiFQ9xsCMS7AJrvTtoEf6dpIc.png" group-title="Digital TV", DLTV7
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://cdn-live.dltv.ac.th/dltv07.m3u8
+
+#EXTINF:-1 tvg-chno="208" ch-number="208" tvg-id="DLTV8.th" tvg-name="DLTV8" tvg-logo="https://media-mvtv.imgix.net/channel/143_y_k4YNqBSgRW1OndxQuU6Pac0CMJVKIf57.png" group-title="Digital TV", DLTV8
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://cdn-live.dltv.ac.th/dltv08.m3u8
+
+#EXTINF:-1 tvg-chno="209" ch-number="209" tvg-id="DLTV9.th" tvg-name="DLTV9" tvg-logo="https://media-mvtv.imgix.net/channel/144_y_9yo8mDwnI5OLgCHKvfsZ42BMXTzEbrSe.png" group-title="Digital TV", DLTV9
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://cdn-live.dltv.ac.th/dltv09.m3u8
+
+#EXTINF:-1 tvg-chno="210" ch-number="210" tvg-id="DLTV10.th" tvg-name="DLTV10" tvg-logo="https://media-mvtv.imgix.net/channel/145_y_9Fkli2DoLIP0EX56AHW74MhquQKfng1a.png" group-title="Digital TV", DLTV10
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://cdn-live.dltv.ac.th/dltv10.m3u8
+
+#EXTINF:-1 tvg-chno="211" ch-number="211" tvg-id="DLTV11.th" tvg-name="DLTV11" tvg-logo="https://media-mvtv.imgix.net/channel/146_y_5LVm0hDdr2N19IOlU3MAtqscKSk6xgZe.png" group-title="Digital TV", DLTV11
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://cdn-live.dltv.ac.th/dltv11.m3u8
+
+#EXTINF:-1 tvg-chno="212" ch-number="212" tvg-id="DLTV12.th" tvg-name="DLTV12" tvg-logo="https://media-mvtv.imgix.net/channel/147_y_Uel5LZmKGoutv2PJiFIx60jayQbpnzqT.png" group-title="Digital TV", DLTV12
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://cdn-live.dltv.ac.th/dltv12.m3u8
+
+#EXTINF:-1 tvg-chno="213" ch-number="213" tvg-id="DLTV13.th" tvg-name="DLTV13" tvg-logo="https://media-mvtv.imgix.net/channel/148_y_23K7iaWFMTnyxjfH5NIhUpCgZc8SB4s9.png" group-title="Digital TV", DLTV13
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://cdn-live.dltv.ac.th/dltv13.m3u8
+
+#EXTINF:-1 tvg-chno="214" ch-number="214" tvg-id="DLTV14.th" tvg-name="DLTV14" tvg-logo="https://media-mvtv.imgix.net/channel/149_y_EzhGev4MFkQUOR08CdZisfP5Lnw9Jx6A.png" group-title="Digital TV", DLTV14
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://cdn-live.dltv.ac.th/dltv14.m3u8
+
+#EXTINF:-1 tvg-chno="215" ch-number="215" tvg-id="DLTV15.th" tvg-name="DLTV15" tvg-logo="https://media-mvtv.imgix.net/channel/150_y_eUWs21cyV38ARS0OZmtgILodzKiJqfaD.png" group-title="Digital TV", DLTV15
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://cdn-live.dltv.ac.th/dltv15.m3u8
