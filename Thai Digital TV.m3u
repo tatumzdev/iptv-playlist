@@ -4,12 +4,12 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 tvg-chno="98" tvg-id="AA.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Thai_PBS_2015.svg" group-title="Digital TV",AA
 https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="ThaiPBS.th" tvg-logo="https://example.com/tpbs.png" group-title="Digital TV",Thai PBS
-https://example.com/tpbs/playlist.m3u8
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="ALTV.th" tvg-logo="https://example.com/altv.png" group-title="Digital TV",ALTV
-https://example.com/altv/playlist.m3u8
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-chno="3" tvg-id="TV5HD.th" tvg-logo="https://example.com/tv5.png" group-title="Digital TV",TV5 HD
-https://example.com/tv5/playlist.m3u8
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-chno="7" tvg-id="TSports7.th" tvg-logo="https://example.com/tsport.png" group-title="Digital TV",T Sports 7
-https://example.com/tsport/playlist.m3u8
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-chno="9" tvg-id="MCOT.th" tvg-logo="https://example.com/mcot.png" group-title="Digital TV",MCOT HD
-https://example.com/mcot/playlist.m3u8
+https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
