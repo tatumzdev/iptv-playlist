@@ -11,8 +11,8 @@ https://usa.login.in.th/ch8/ch8/playlist.m3u8
 #EXTINF:-1 tvg-chno="801" tvg-id="cool.th" tvg-logo="" group-title="Cable TV",Cool Channel
 https://usa.login.in.th/ch8/ch8/playlist.m3u8
 
-#EXTINF:-1 tvg-chno="802" tvg-id="dopatv.th" tvg-logo="" group-title="Cable TV",dopatv
-http://dopachannel.truegse.com/live/dopatv03.m3u8
+#EXTINF:-1 tvg-chno="802" tvg-id="GBN.th" tvg-logo="" group-title="Cable TV",GBN Global Buddhist Network 
+https://github.com/BellezaEmporium/IPTV_Exception/raw/master/channels/us/gbnus.m3u8
 
 #EXTINF:-1 tvg-chno="101" tvg-id="MVLAO.th" tvg-logo="https://media-mvtv.imgix.net/channel/33_y_H4Rw5iJ7py10NvGAPEhWbYD6SgfarXOc.png" group-title="Digital TV", MVLAO
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
