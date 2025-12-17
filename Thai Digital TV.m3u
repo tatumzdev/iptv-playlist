@@ -1,16 +1,8 @@
 #EXTM3U
 #EXTINF:-1 tvg-chno="99" tvg-id="Boomerang.th" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="Digital TV",Boomerang
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-#EXTINF:-1 tvg-id="AA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Thai_PBS_2015.svg" group-title="Digital TV",AA
+#EXTINF:-1 tvg-chno="98" tvg-id="AA" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Thai_PBS_2015.svg" group-title="Digital TV",AA
 http://news1.live14.com/stream/news1.m3u8
-#EXTINF:-1 tvg-id="ALTV.th" tvg-logo="https://i.imgur.com/MCbCSWv.png" group-title="Digital TV",ALTV
-https://lb1-live-mv.v2h-cdn.com/hls/fffc/altv/altv.m3u8
-#EXTINF:-1 tvg-id="TV5HD.th" tvg-logo="https://i.imgur.com/wOIaqg7.png" group-title="Digital TV",TV5HD
-https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
-#EXTINF:-1 tvg-id="TSports7.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/c/ce/T_Sports_7_Logo.png" group-title="Digital TV",T Sports 7
-https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
-#EXTINF:-1 tvg-id="TPTV.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TPTV_2014.png" group-title="Digital TV",TPTV
-https://tv-live.tpchannel.org/live/tv_1080p.m3u8
 #EXTINF:-1 tvg-chno="1" tvg-id="ThaiPBS.th" tvg-logo="https://example.com/tpbs.png" group-title="Digital TV",Thai PBS
 https://example.com/tpbs/playlist.m3u8
 #EXTINF:-1 tvg-chno="2" tvg-id="ALTV.th" tvg-logo="https://example.com/altv.png" group-title="Digital TV",ALTV
