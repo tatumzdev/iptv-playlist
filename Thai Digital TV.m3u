@@ -9,7 +9,27 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 https://usa.login.in.th/ch8/ch8/playlist.m3u8
 
 #EXTINF:-1 tvg-chno="801" tvg-id="cool.th" tvg-logo="" group-title="Cable TV",Cool Channel
-https://live-iptv.cool-channel.com/cool/live-720P.m3u8
+https://usa.login.in.th/ch8/ch8/playlist.m3u8
+
+#EXTINF:-1 tvg-chno="101" tvg-id="MVLAO.th" tvg-logo="https://media-mvtv.imgix.net/channel/33_y_H4Rw5iJ7py10NvGAPEhWbYD6SgfarXOc.png" group-title="Digital TV", MVLAO
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://lb1-live-mv.v2h-cdn.com/hls/ffaa/mvlao/mvlao.m3u8
+
+#EXTINF:-1 tvg-chno="102" tvg-id="MVM.th" tvg-logo="https://media-mvtv.imgix.net/channel/34_y_PNWygduIqYU4DxtCrMoRzp60JFbkAGHO.png" group-title="Digital TV", MVM
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://lb1-live-mv.v2h-cdn.com/hls/feff/mvm/mvm.m3u8
+
+#EXTINF:-1 tvg-chno="104" tvg-id="France 24.th" tvg-logo="https://media-mvtv.imgix.net/channel/151_y_YrFS8xk32BmplLV4NcHgdXRsuU7TvWZ5.png" group-title="Digital TV", France 24
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
+
+#EXTINF:-1 tvg-chno="105" tvg-id="CNA.th" tvg-logo="https://media-mvtv.imgix.net/channel/152_y_zynZw6RpjUoxHbGMh28eCKk9BlqIXJAa.png" group-title="Digital TV", CNA
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://d2e1asnsl7br7b.cloudfront.net/4e4e0baa3d7b4c129b4f5655219e083d/index.m3u8
+
+#EXTINF:-1 tvg-chno="107" tvg-id="CCTV4.th" tvg-logo="https://media-mvtv.imgix.net/channel/154_y_lIpB1wRXh7vQUYcAkzxLd8EVbg9Gsa0u.png" group-title="Digital TV", CCTV4
+#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
+https://lb1-live-mv.v2h-cdn.com/hls/fefb/cctv4/cctv4.m3u8
 
 #EXTINF:-1 tvg-chno="201" tvg-id="DLTV1.th" tvg-logo="https://media-mvtv.imgix.net/channel/136_y_tPkVabFhc7iUGQdmlEDC5IxvJZj4326M.png" group-title="Digital TV", DLTV1
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
