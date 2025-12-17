@@ -1,7 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-chno="99" tvg-id="Boomerang.th" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="Digital TV",Boomerang
-https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
-
 #EXTINF:-1 tvg-chno="3" tvg-id="TPBS.th" tvg-logo="https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png" group-title="Digital TV",TPBS
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 
@@ -19,6 +16,9 @@ https://monomax-uiripn.cdn.byteark.com/plain/th/1080p/index.m3u8
 
 #EXTINF:-1 tvg-chno="31" tvg-id="ONE.th" tvg-logo="https://media-mvtv.imgix.net/channel/130_y_3Lx4j6ZzpIidKPqChaF2QRYeWorw79Jv.png" group-title="Digital TV",ONE
 https://bcovlive-a.akamaihd.net/b6603a14ea59440a95e9235e14bc9332/ap-southeast-1/6415628290001/9c3d7fc7d10840a69e48b5939ae886e0/playlist_ssaiM.m3u8
+
+#EXTINF:-1 tvg-chno="99" tvg-id="Boomerang.th" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="Digital TV",Boomerang
+https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 
 #EXTINF:-1 tvg-chno="801" tvg-id="cool.th" tvg-logo="" group-title="Cable TV",Cool Channel
 https://usa.login.in.th/ch8/ch8/playlist.m3u8
