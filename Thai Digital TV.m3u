@@ -1,5 +1,5 @@
 #EXTM3U
-#EXTINF:-1 tvg-id="Boomerang.th" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="Digital TV",Boomerang
+#EXTINF:-1 tvg-chno="99" tvg-id="Boomerang.th" tvg-logo="https://media-mvtv8.imgix.net/channel/153_y_3V9s1SWHcnaNILkoXMmF8GER4ZTrxJvg.jpg" group-title="Digital TV",Boomerang
 https://lb1-live-mv.v2h-cdn.com/hls/fffa/boomerang/boomerang.m3u8
 #EXTINF:-1 tvg-id="ThaiPBS.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/b/b5/Thai_PBS_2015.svg" group-title="Digital TV",Thai PBS
 https://lb1-live-mv.v2h-cdn.com/hls/fffd/tpbs/tpbs.m3u8
@@ -11,3 +11,13 @@ https://lb1-live-mv.v2h-cdn.com/hls/fffb/5hd/5hd.m3u8
 https://lb1-live-mv.v2h-cdn.com/hls/ffef/tsport/tsport.m3u8
 #EXTINF:-1 tvg-id="TPTV.th" tvg-logo="https://static.wikia.nocookie.net/logopedia/images/0/0b/TPTV_2014.png" group-title="Digital TV",TPTV
 https://tv-live.tpchannel.org/live/tv_1080p.m3u8
+#EXTINF:-1 tvg-chno="1" tvg-id="ThaiPBS.th" tvg-logo="https://example.com/tpbs.png" group-title="Digital TV",Thai PBS
+https://example.com/tpbs/playlist.m3u8
+#EXTINF:-1 tvg-chno="2" tvg-id="ALTV.th" tvg-logo="https://example.com/altv.png" group-title="Digital TV",ALTV
+https://example.com/altv/playlist.m3u8
+#EXTINF:-1 tvg-chno="3" tvg-id="TV5HD.th" tvg-logo="https://example.com/tv5.png" group-title="Digital TV",TV5 HD
+https://example.com/tv5/playlist.m3u8
+#EXTINF:-1 tvg-chno="7" tvg-id="TSports7.th" tvg-logo="https://example.com/tsport.png" group-title="Digital TV",T Sports 7
+https://example.com/tsport/playlist.m3u8
+#EXTINF:-1 tvg-chno="9" tvg-id="MCOT.th" tvg-logo="https://example.com/mcot.png" group-title="Digital TV",MCOT HD
+https://example.com/mcot/playlist.m3u8
