@@ -12,7 +12,6 @@ https://usa.login.in.th/ch8/ch8/playlist.m3u8
 https://live-iptv.cool-channel.com/cool/live-720P.m3u8
 
 #EXTINF:-1 tvg-chno="201" ch-number="201" tvg-id="DLTV1.th" tvg-name="DLTV1" tvg-logo="https://media-mvtv.imgix.net/channel/136_y_tPkVabFhc7iUGQdmlEDC5IxvJZj4326M.png" group-title="Digital TV", DLTV1
-#EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://cdn-live.dltv.ac.th/dltv01.m3u8
 
 #EXTINF:-1 tvg-chno="202" ch-number="202" tvg-id="DLTV2.th" tvg-name="DLTV2" tvg-logo="https://media-mvtv.imgix.net/channel/137_y_yQOMjhFVupi8I1oal5TScnbkfAYtJC2v.png" group-title="Digital TV", DLTV2
