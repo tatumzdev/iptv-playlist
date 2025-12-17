@@ -8,6 +8,9 @@ https://639bc5877c5fe.streamlock.net/tv5hdlive/tv5hdlive/playlist.m3u8
 #EXTINF:-1 tvg-chno="8" tvg-id="CH8.th" tvg-logo="" group-title="Digital TV",CH8
 https://usa.login.in.th/ch8/ch8/playlist.m3u8
 
+#EXTINF:-1 tvg-chno="25" tvg-id="GMM25.th" tvg-logo="https://media-mvtv.imgix.net/channel/126_y_6PH49bDqlg1aSxGoNUdT83R5Jkeyf2mB.png" group-title="Digital TV",GMM25
+https://bcovlive-a.akamaihd.net/57d4bf695e80436d9335f4f50adbe438/ap-southeast-1/6415628290001/7e85dc4a59904e45b4fdffebd62e1d82/playlist_ssaiM.m3u8
+
 #EXTINF:-1 tvg-chno="801" tvg-id="cool.th" tvg-logo="" group-title="Cable TV",Cool Channel
 https://usa.login.in.th/ch8/ch8/playlist.m3u8
 
