@@ -3,6 +3,9 @@
 #EXTVLCOPT:http-user-agent=VLC/3.0.11 LibVLC
 https://lb1-live-mv.v2h-cdn.com/hls/fecd/france24/france24.m3u8
 
+#EXTINF:-1 tvg-chno="1" tvg-id="news1.th" tvg-logo="https://mpics.mgronline.com/pics/Images/557000010191601.JPEG" group-title="Digital TV",news1
+https://server1.streamssl.com/stream/news1.m3u8
+
 #EXTINF:-1 tvg-chno="3" tvg-id="TPBS.th" tvg-logo="https://media-mvtv.imgix.net/channel/116_y_cze67bhJwH8CIOaqnULfg0kKPAs2TQW1.png" group-title="Digital TV",TPBS
 https://thaipbs-live.cdn.byteark.com/live/playlist.m3u8
 
